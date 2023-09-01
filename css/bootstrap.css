@@ -3126,6 +3126,9 @@ input[type="button"].btn-block {
     right: 0;
     left: auto;
   }
+  .container-about-info{
+    display:block;
+  }
 }
 
 .dropup .dropdown-menu {
